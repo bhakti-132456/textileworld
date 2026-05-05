@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Data (Original large JSONs)
+feed.json
+feed-all.json
+
+# Local scripts
+build-articles.js
+fetch-all.js
+
+# Environments
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
